@@ -13,4 +13,4 @@ This is a simple command-line-based Personal Expense Tracker built using Python.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/expense-tracker.git
+   git clone https://github.com/Apuravsharma03/expense-tracker.git
